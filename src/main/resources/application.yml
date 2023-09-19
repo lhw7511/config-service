@@ -13,8 +13,8 @@ spring:
     config:
       server:
         git:
-          #uri: https://github.com/lhw7511/spring-cloud-config
-          uri: file:///Users/beintech/Documents/springboot/config-repo
+          uri: https://github.com/lhw7511/config-repo
+          #uri: file:///Users/beintech/Documents/springboot/config-repo
 
 
 management:
